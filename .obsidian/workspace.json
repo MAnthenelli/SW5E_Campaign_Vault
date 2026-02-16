@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c36f396a4d11eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82a1c8cddf65cb73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c56a40d8dfa75f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd2fa10905dbbd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e6e7a2674c66f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f51644d78f1defdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e0a6a65c158c738e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7380e782f85f9277",
+    "type": "split",
+    "children": [
+      {
+        "id": "389b64f6b49e4c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9bba630cc1b102",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "36617519c7212bda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "7339e86e30846057",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "644ad0f085bd8d4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5266e94001bc3b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "82a1c8cddf65cb73",
+  "lastOpenFiles": [
+    "Places/Core Worlds/Core Worlds.md",
+    "Characters/NPC/Vockor Maff.md",
+    "Characters/PC/Ixora.md",
+    "Characters/PC/H8-37.md",
+    "Characters/Proto-PC/R1-J8.md",
+    "Factions/Czerka Corporation.md",
+    "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
+    "Places/Core Worlds/Celestial_Bodies/M4-78.md",
+    "Places/Core Worlds/Coruscant/Coruscant.md",
+    "Characters/NPC/Alya Vek.md",
+    "Characters/NPC/Belos Omati.md",
+    "Characters/NPC/BA-136.md",
+    "Characters/Archetype/Weequay Thug.md",
+    "Characters/Archetype/SIS Agent.md",
+    "Characters/Archetype/Gamorrean Guard.md",
+    "Places/Outer Rim/Outer Rim.md",
+    "Places/Hutt Space/Kwenn/Kwenn.md",
+    "Places/Core Worlds/Coruscant/Under City/Under City.md",
+    "Places/Core Worlds/Coruscant/Upper City/Upper City.md",
+    "Places/Core Worlds/Coruscant/Upper City/HNN Headquarters.md",
+    "Places/Core Worlds/Coruscant/Upper City",
+    "Places/Core Worlds/Coruscant/Under City",
+    "Places/Hutt Space/Kwenn",
+    "Places/Hutt Space/Hutt Space.md",
+    "Untitled",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Naviya's Cantina.md",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Alya Hideout.md",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/HNN Headquarters.md",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Senate.md",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Night Market.md",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Planetary_Regions",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations",
+    "Places/Hutt Space/Celestial_Bodies 1/Coruscant",
+    "Places/Hutt Space/Celestial_Bodies 1",
+    "Places/Outer Rim",
+    "Places/Hutt Space"
+  ]
+}

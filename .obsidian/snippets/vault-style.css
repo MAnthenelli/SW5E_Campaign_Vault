@@ -1,0 +1,4 @@
+/* Vault style snippet */
+.markdown-preview-view h1, .markdown-source-view.mod-cm6 .cm-content h1 { display:none; }
+/* Make the home page links look like buttons (works if you use callouts) */
+.callout[data-callout="nav"] { border-left: 6px solid var(--interactive-accent); }
