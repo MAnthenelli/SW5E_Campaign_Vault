@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Archetype/Scavenger.md",
-                "mode": "preview",
+                "file": "Characters/Archetype/Exchange Agent (easy).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger"
+              "title": "Exchange Agent (easy)"
             }
           }
         ]
@@ -193,7 +193,7 @@
     "Characters/PC/H8-37.md",
     "Characters/PC/Ixora.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
-    "Characters/Archetype/Scavenger.md",
+    "Characters/Archetype/Exchange Agent (easy).md",
     "Characters/Archetype/Gamorrean Guard.md",
     "Characters/Archetype/SIS Agent.md",
     "Characters/Archetype/Weequay Thug.md",

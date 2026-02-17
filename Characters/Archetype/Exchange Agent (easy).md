@@ -1,24 +1,21 @@
 ---
 type: character
-name: Scavenger
+name: Exchange Agent (easy)
 character_type: Archetype
 level: 1
-species: Twi'lek
-species_sw5e_url: https://www.sw5e.com/characters/species/Twi'lek
-class: ""
-class_sw5e_url: ""
+species: Aqualish
+species_sw5e_url: https://www.sw5e.com/characters/species/Aqualish
+class: Scout
+class_sw5e_url: https://www.sw5e.com/characters/classes/Scout
 gender: ""
 sessions: []
-visited_galactic_regions: []
-visited_celestial_bodies: []
-visited_planetary_regions: []
-visited_locations: []
 factions: []
 current_place: ""
 ---
 ## Appearance
 
 ## Voice
+Aussie/Bendigo
 ## Backstory
 
 ## Notes
