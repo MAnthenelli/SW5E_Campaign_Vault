@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Tarboo.md",
+                "file": "Characters/PC/Ixora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarboo"
+              "title": "Ixora"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Characters/PC/Rashka Doran.md",
+    "Characters/PC/Tarboo.md",
     "Home.md",
     "Characters/Archetype/Gamorrean Guard.md",
     "Factions/The Exchange.md",
@@ -196,8 +198,6 @@
     "Factions/Galactic Republic.md",
     "Factions/Czerka Corporation.md",
     "Factions/Coruscant Echo.md",
-    "Characters/PC/Tarboo.md",
-    "Characters/PC/Rashka Doran.md",
     "Characters/PC/H8-37.md",
     "Characters/PC/Ixora.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
