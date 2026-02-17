@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Rashka Doran.md",
+                "file": "Characters/PC/H8-37.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Rashka Doran"
+              "title": "H8-37"
             }
           }
         ]
@@ -188,9 +188,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Characters/PC/Ixora.md",
+    "Characters/PC/H8-37.md",
+    "Home.md",
     "Characters/PC/Rashka Doran.md",
     "Characters/PC/Tarboo.md",
-    "Home.md",
     "Characters/Archetype/Gamorrean Guard.md",
     "Factions/The Exchange.md",
     "Characters/Archetype/Exchange Agent (easy).md",
@@ -199,7 +200,6 @@
     "Factions/Galactic Republic.md",
     "Factions/Czerka Corporation.md",
     "Factions/Coruscant Echo.md",
-    "Characters/PC/H8-37.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
     "Characters/Archetype/SIS Agent.md",
     "Characters/Archetype/Weequay Thug.md",
