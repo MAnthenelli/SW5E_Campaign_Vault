@@ -19,7 +19,7 @@ characters_visited:
   - "[[Ji-toh Coreft]]"
   - "[[Rashka Doran]]"
   - "[[Sibble]]"
-  - "[[Tarku]]"
+  - "[[Tarboo]]"
 sessions:
   - "[[S00]]"
   - "[[P03]]"

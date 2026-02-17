@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Characters/PC/Tarboo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Tarboo"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Characters/Archetype/Gamorrean Guard.md",
     "Factions/The Exchange.md",
     "Characters/Archetype/Exchange Agent (easy).md",
@@ -195,8 +196,7 @@
     "Factions/Galactic Republic.md",
     "Factions/Czerka Corporation.md",
     "Factions/Coruscant Echo.md",
-    "Home.md",
-    "Characters/PC/Tarku.md",
+    "Characters/PC/Tarboo.md",
     "Characters/PC/Rashka Doran.md",
     "Characters/PC/H8-37.md",
     "Characters/PC/Ixora.md",

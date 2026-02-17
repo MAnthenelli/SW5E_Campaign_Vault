@@ -22,7 +22,7 @@ factions:
 key_characters:
   - "[[Ixora]]"
   - "[[Rashka Doran]]"
-  - "[[Tarku]]"
+  - "[[Tarboo]]"
   - "[[H8-37]]"
   - "[[Ji-toh Coreft]]"
 ---
