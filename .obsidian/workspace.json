@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Archetype/Gamorrean Guard.md",
+                "file": "Characters/Archetype/Scavenger.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamorrean Guard"
+              "title": "Scavenger"
             }
           }
         ]
@@ -187,14 +187,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Characters/Archetype/SIS Agent.md",
-    "Characters/Archetype/Scavenger.md",
     "Home.md",
+    "Characters/PC/Tarku.md",
+    "Characters/PC/Rashka Doran.md",
     "Characters/PC/H8-37.md",
+    "Characters/PC/Ixora.md",
+    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
+    "Characters/Archetype/Scavenger.md",
+    "Characters/Archetype/Gamorrean Guard.md",
+    "Characters/Archetype/SIS Agent.md",
     "Characters/Archetype/Weequay Thug.md",
     "Places/Core Worlds/Core Worlds.md",
     "Characters/NPC/Vockor Maff.md",
-    "Characters/PC/Ixora.md",
     "Characters/Proto-PC/R1-J8.md",
     "Factions/Czerka Corporation.md",
     "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
@@ -203,7 +207,6 @@
     "Characters/NPC/Alya Vek.md",
     "Characters/NPC/Belos Omati.md",
     "Characters/NPC/BA-136.md",
-    "Characters/Archetype/Gamorrean Guard.md",
     "Places/Outer Rim/Outer Rim.md",
     "Places/Hutt Space/Kwenn/Kwenn.md",
     "Places/Core Worlds/Coruscant/Under City/Under City.md",
@@ -214,9 +217,6 @@
     "Places/Hutt Space/Kwenn",
     "Places/Hutt Space/Hutt Space.md",
     "Untitled",
-    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Naviya's Cantina.md",
-    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/Alya Hideout.md",
-    "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations/HNN Headquarters.md",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Planetary_Regions",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant",
