@@ -18,6 +18,7 @@ visited_planetary_regions:
   - "[[Upper City]]"
 visited_locations:
   - "[[Jedi Temple]]"
+  - "[[Recalcitrant III]]"
 current_place:
 factions: []
 faction_standing: {}
