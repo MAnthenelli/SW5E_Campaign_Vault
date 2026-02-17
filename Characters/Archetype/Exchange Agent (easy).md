@@ -7,9 +7,9 @@ species: Aqualish
 species_sw5e_url: https://www.sw5e.com/characters/species/Aqualish
 class: Scout
 class_sw5e_url: https://www.sw5e.com/characters/classes/Scout
-gender: ""
 sessions: []
-factions: []
+factions:
+  - "[[The Exchange]]"
 current_place: ""
 ---
 ## Appearance

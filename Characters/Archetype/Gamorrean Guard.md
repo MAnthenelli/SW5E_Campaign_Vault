@@ -2,10 +2,11 @@
 type: character
 name: Gamorrean Guard (Archetype)
 character_type: Archetype
-level:
-species:
-gender:
-class_role:
+level: 1
+species: Gamorrean
+class_sw5e_url:
+species_sw5e_url:
+class:
 sessions:
   - "[[P01]]"
 visited_galactic_regions:
@@ -19,9 +20,6 @@ visited_locations:
 current_place:
 factions: []
 faction_standing: {}
-species_sw5e_url:
-class:
-class_sw5e_url:
 ---
 
 - **Statblock Use**: Reusable archetype / template stat block
