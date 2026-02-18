@@ -2,12 +2,14 @@
 type: character
 name: Q'russ
 character_type: NPC
-level:
-species:
-gender:
-class_role:
+level: 2
+gender: Male
+species: Trandoshan
+species_sw5e_url: https://sw5e.com/characters/species/Trandoshan
+class: Berserker
+class_sw5e_url: https://www.sw5e.com/characters/classes/Berserker
 sessions:
-  - "[[P02]]"
+  - "[[P02 - Night Market Ambush]]"
 visited_galactic_regions:
   - "[[Core Worlds]]"
 visited_celestial_bodies:
@@ -16,18 +18,11 @@ visited_planetary_regions:
   - "[[Under City]]"
 visited_locations:
   - "[[Night Market]]"
-current_place:
+current_place: dead
 factions:
   - "[[Hutt Cartel]]"
 faction_standing: {}
-species_sw5e_url:
-class:
-class_sw5e_url:
 ---
 
 ## Notes
-- Bounty hunter hired by Durzoka; killed in the night market (possible revival hook).
-
-- **AC**: <!-- TODO: AC -->
-- **Passive Perception**: <!-- TODO: passive perception -->
-- **Languages**: <!-- TODO: languages -->
+- Bounty hunter hired by Durzoka; killed in the night market.
