@@ -3,7 +3,6 @@ type: home
 name: Home
 ---
 # Campaign Vault Home
-
 - [[Index - Sessions]]
 - [[Index - Characters]]
 - [[Index - Ships]]

@@ -15,7 +15,7 @@
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Home"
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,12 +182,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Templates/Template - Ship Archetype.md",
+    "Templates/Template - Ship.md",
+    "Templates/Template - Session (Proto).md",
+    "Templates/Template - Session (Main).md",
+    "Templates/Template - Planetary Region.md",
+    "Templates/Template - Location.md",
+    "Templates/Template - Galactic Region.md",
+    "Templates/Template - Faction.md",
+    "Templates/Template - Character.md",
+    "Templates/Template - Celestial Body.md",
+    "Templates/_Templates Parent.md",
+    "Factions/The Exchange.md",
     "Home.md",
     "Characters/PC/Ixora.md",
     "Characters/PC/H8-37.md",
@@ -195,24 +207,12 @@
     "Characters/PC/Tarboo.md",
     "Characters/PC/Rashka Doran.md",
     "Characters/Archetype/Gamorrean Guard.md",
-    "Factions/The Exchange.md",
     "Indexes/Index - Factions.md",
     "Indexes/Index - Places.md",
     "Factions/Galactic Republic.md",
     "Factions/Czerka Corporation.md",
     "Factions/Coruscant Echo.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
-    "Characters/Archetype/SIS Agent.md",
-    "Characters/Archetype/Weequay Thug.md",
-    "Places/Core Worlds/Core Worlds.md",
-    "Characters/NPC/Vockor Maff.md",
-    "Characters/Proto-PC/R1-J8.md",
-    "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
-    "Places/Core Worlds/Celestial_Bodies/M4-78.md",
-    "Places/Core Worlds/Coruscant/Coruscant.md",
-    "Characters/NPC/Alya Vek.md",
-    "Characters/NPC/Belos Omati.md",
-    "Characters/NPC/BA-136.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",
