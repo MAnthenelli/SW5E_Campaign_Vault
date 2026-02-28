@@ -10,7 +10,7 @@ crew:
 visitors:
   - "[[Ixora]]"
   - "[[Rashka Doran]]"
-  - "[[Tarku]]"
+  - "[[Tarboo]]"
   - "[[H8-37]]"
 locations_visited:
   - "[[Places/Core Worlds/Celestial_Bodies/M4-78|M4-78]]"

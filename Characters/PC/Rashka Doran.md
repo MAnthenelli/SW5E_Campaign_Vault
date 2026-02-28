@@ -5,9 +5,11 @@ character_type: PC
 level: 1
 species: Nautolan
 gender: Female
-class_role: Scholar
+species_sw5e_url: https://www.sw5e.com/characters/species/Nautolan
 sessions:
-  - "[[S00]]"
+  - "[[S00 - Stowaways on the Recalcitrant III]]"
+class: Scholar
+class_sw5e_url: https://www.sw5e.com/characters/classes/Scholar
 visited_galactic_regions:
   - "[[Core Worlds]]"
 visited_celestial_bodies:
@@ -16,14 +18,16 @@ visited_planetary_regions:
   - "[[Upper City]]"
 visited_locations:
   - "[[Jedi Temple]]"
+  - "[[Recalcitrant III]]"
 current_place:
 factions: []
 faction_standing: {}
-species_sw5e_url: https://www.sw5e.com/characters/species/Nautolan
-class: Scholar
-class_sw5e_url: https://www.sw5e.com/characters/classes/Scholar
+AC: 15
+max_hp: 7
+passive_perception: 12
+languages:
+  - Galactic Basic
+  - Nautila
 ---
+## Background
 
-- **AC**: <!-- TODO: AC -->
-- **Passive Perception**: <!-- TODO: passive perception -->
-- **Languages**: <!-- TODO: languages -->

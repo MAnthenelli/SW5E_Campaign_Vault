@@ -14,7 +14,7 @@ characters_visited:
   - "[[Ixora]]"
   - "[[Ji-toh Coreft]]"
   - "[[Rashka Doran]]"
-  - "[[Tarku]]"
+  - "[[Tarboo]]"
 sessions:
   - "[[S00]]"
 ---

@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "session_index": "number"
+    "session_index": "number",
+    "AC": "number",
+    "passive_perception": "number",
+    "max_hp": "number"
   }
 }

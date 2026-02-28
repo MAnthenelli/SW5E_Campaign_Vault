@@ -1,13 +1,13 @@
 ---
 type: character
-name: H8-37
+name: Tarboo
 character_type: PC
 level: 1
-species: Droid, Class IV
-species_sw5e_url: https://sw5e.com/characters/species/Droid,%20Class%20IV
-class: Operative
-class_sw5e_url: https://www.sw5e.com/characters/classes/Operative
-gender: Droid
+species: Jawa
+species_sw5e_url: https://www.sw5e.com/characters/species/Jawa
+gender: Male
+class: Engineer
+class_sw5e_url: https://www.sw5e.com/characters/classes/Engineer
 sessions:
   - "[[S00 - Stowaways on the Recalcitrant III]]"
 visited_galactic_regions:
@@ -18,17 +18,16 @@ visited_planetary_regions:
   - "[[Upper City]]"
 visited_locations:
   - "[[Jedi Temple]]"
-current_place:
+current_place: "[[Recalcitrant III]]"
 factions: []
 faction_standing: {}
-AC: 14
+AC: 15
 max_hp: 10
-passive_perception: 17
+passive_perception: 11
 languages:
   - Galactic Basic
-  - Binary
   - Jawaese
 ---
 ## Background
 
-A 200 year old droid with hidden weapons in its arms. Prefers to listen.
+

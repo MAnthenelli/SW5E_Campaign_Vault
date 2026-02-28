@@ -10,7 +10,7 @@ name: Characters Index
 - [[H8-37]]
 - [[Ixora]]
 - [[Rashka Doran]]
-- [[Tarku]]
+- [[Tarboo]]
 
 ## Proto-PCs
 - [[A'koba]]
