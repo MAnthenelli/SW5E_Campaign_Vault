@@ -18,7 +18,7 @@ factions:
 current_place: ""
 ---
 ## Appearance
-Short hair, lots of scars, 
+Short hair, scar on her face with an eyepatch
 ## Voice
 gravelly
 ## Backstory
