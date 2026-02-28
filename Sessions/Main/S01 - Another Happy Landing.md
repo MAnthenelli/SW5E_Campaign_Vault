@@ -33,8 +33,8 @@ key_characters:
 - Galen Zullari hears Rashka's distress signals and kills Exchange thugs attempting to scavenge pod
 - PC meet Galen and go to Bantha's breath where 
 ## Outcomes
-  - Ji-toh is killed
-  - Temple is saved
+  - PCs reunited
+  - met 
   - Rashka launched in a damaged escape pod when hope seemed lost.
 ## Hooks
   - Why did Coreft radicalize?
