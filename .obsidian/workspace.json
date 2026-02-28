@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Main/S01 - Another Happy Landing.md",
+                "file": "Factions/The Exchange.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01 - Another Happy Landing"
+              "title": "The Exchange"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
+    "Home.md",
+    "Ships/NPC_Ships/Recalcitrant III.md",
     "Sessions/Main/S01 - Another Happy Landing.md",
+    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
     "Galen Zullari.md",
     "Rulebook/Features/Placed Shots.md",
     "Characters/NPC/Kivad Gnak.md",
     "Kivad Gnak1.md",
-    "Home.md",
     "Places/Core Worlds/Coruscant/Under City/Bantha Breath.md",
     "Places/Core Worlds/Coruscant/Under City/Naviya's Cantina.md",
     "Places/Core Worlds/Coruscant/Under City/Night Market.md",
@@ -215,7 +216,6 @@
     "Characters/PC/H8-37.md",
     "Characters/Proto-PC/R1-J8.md",
     "Factions/Czerka Corporation.md",
-    "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",
