@@ -14,7 +14,7 @@ present_locations:
   - "[[Night Market]]"
   - "[[Alya Hideout]]"
 allied_characters:
-  - "[[Galen Zullari]]"
+  - "[[Characters/NPC/Galen Zullari]]"
   - "[[BA-136]]"
 enemy_characters:
   - Alya Vek (whistleblower)

@@ -18,7 +18,7 @@ characters_visited:
   - "[[Alya Vek]]"
   - "[[BA-136]]"
   - "[[Cray]]"
-  - "[[Galen Zullari]]"
+  - "[[Characters/NPC/Galen Zullari]]"
   - "[[Gamorrean Guard]]"
   - "[[Q'russ]]"
   - "[[R1-J8]]"

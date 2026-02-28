@@ -22,7 +22,7 @@ key_characters:
   - "[[Alya Vek]]"
   - "[[Tia Rell]]"
   - "[[Q'russ]]"
-  - "[[Galen Zullari]]"
+  - "[[Characters/NPC/Galen Zullari]]"
   - "[[R1-J8]]"
   - "[[T0-ME]]"
   - "[[Cray]]"

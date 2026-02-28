@@ -29,7 +29,7 @@ name: Characters Index
 - [[Durzoka the Hutt]]
 - [[Emperor Vitiate]]
 - [[Emporer Vitiate]]
-- [[Galen Zullari]]
+- [[Characters/NPC/Galen Zullari]]
 - [[Ji-toh Coreft]]
 - [[Q'russ]]
 - [[Tia Rell]]
