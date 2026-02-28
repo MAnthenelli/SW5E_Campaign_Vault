@@ -8,9 +8,11 @@ factions_present:
   - "[[The Exchange]]"
 characters_present: []
 characters_visited:
+  - "[[Tarboo]]"
+  - "[[H8-37]]"
+  - "[[Rashka Doran]]"
+  - "[[Ixora]]"
 sessions:
-  - "[[P03]]"
 ---
-
 ## Notes
-- Regroup point; Zhellday night; bartender Naviya (Devaronian?) noted.
+- Secret speakeasy 
