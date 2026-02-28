@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Kivad Gnak.md",
-                "mode": "preview",
+                "file": "Sessions/Main/S01 - Another Happy Landing.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kivad Gnak"
+              "title": "S01 - Another Happy Landing"
             }
           }
         ]
@@ -185,8 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "69e6e7a2674c66f5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
+    "Sessions/Main/S01 - Another Happy Landing.md",
+    "Galen Zullari.md",
     "Rulebook/Features/Placed Shots.md",
     "Characters/NPC/Kivad Gnak.md",
     "Kivad Gnak1.md",
@@ -200,7 +203,6 @@
     "conflict-files-obsidian-git.md",
     "Characters/PC/Tarboo.md",
     "Characters/Archetype/Exchange Agent (easy).md",
-    "Galen Zullari.md",
     "Rulebook/Features",
     "Rulebook",
     "Stats",
@@ -214,8 +216,6 @@
     "Characters/Proto-PC/R1-J8.md",
     "Factions/Czerka Corporation.md",
     "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
-    "Places/Core Worlds/Celestial_Bodies/M4-78.md",
-    "Places/Core Worlds/Coruscant/Coruscant.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",
