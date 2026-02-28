@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Coruscant/Under City/Naviya's Cantina.md",
+                "file": "Places/Core Worlds/Coruscant/Under City/Naviya's Cantina 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naviya's Cantina"
+              "title": "Naviya's Cantina 1"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "fea16be8b3c8b650",
   "lastOpenFiles": [
+    "Places/Core Worlds/Coruscant/Under City/Naviya's Cantina.md",
+    "Places/Core Worlds/Coruscant/Under City/Naviya's Cantina 1.md",
     "Places/Core Worlds/Coruscant/Under City/Alya Hideout.md",
     "Places/Core Worlds/Coruscant/Under City/Night Market.md",
     "Places/Core Worlds/Coruscant/Under City/Under City.md",
@@ -214,8 +216,6 @@
     "Places/Core Worlds/Celestial_Bodies/M4-78.md",
     "Places/Core Worlds/Coruscant/Coruscant.md",
     "Characters/NPC/Alya Vek.md",
-    "Characters/NPC/Belos Omati.md",
-    "Characters/NPC/BA-136.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",
