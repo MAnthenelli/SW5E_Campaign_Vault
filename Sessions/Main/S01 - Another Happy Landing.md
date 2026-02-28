@@ -25,9 +25,10 @@ key_characters:
   - "[[Tarboo]]"
   - "[[H8-37]]"
   - "[[Ji-toh Coreft]]"
+  - "[[Kivad Gnak]]"
 ---
 ## Synopsis
-- The PCs stow away on Recalcitrant III as Ji-Toh attempts a suicide bombing run into the Jedi Temple using a Baradian Compression Bomb. The PCs stop him in a brutal fight.
+- The PCs try to reconvene as Rashka's escape-pod lands in the Drip-Works and she is captured by Exchange 
 ## Outcomes
   - Ji-toh is killed
   - Temple is saved
