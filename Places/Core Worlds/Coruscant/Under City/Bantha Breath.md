@@ -15,4 +15,4 @@ characters_visited:
 sessions:
 ---
 ## Notes
-- Secret speakeasy 
+- Secret exchange speakeasy/spice refinement lab underneath dive bar
