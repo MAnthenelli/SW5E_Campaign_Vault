@@ -6,7 +6,6 @@ planetary_region: "[[Under City]]"
 location_type: Cantina
 factions_present:
   - Mandalorians (contact)
-  - Underworld (TBD)
 characters_present: []
 characters_visited:
   - "[[Alya Vek]]"
