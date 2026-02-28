@@ -28,7 +28,9 @@ key_characters:
   - "[[Kivad Gnak]]"
 ---
 ## Synopsis
-- The PCs try to reconvene as Rashka's escape-pod lands in the Drip-Works and she is captured by Exchange 
+- The PCs try to reconvene as Rashka's escape-pod lands in the Drip-Works and she is captured by Exchange thugs
+- Galen Zullari hears Rashka's distress signals and kills Exchange thugs attempting to scavenge pod
+- PCs go to Bantha's breath where 
 ## Outcomes
   - Ji-toh is killed
   - Temple is saved
