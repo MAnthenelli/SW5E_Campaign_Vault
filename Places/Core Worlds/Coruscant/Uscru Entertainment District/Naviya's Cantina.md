@@ -17,6 +17,7 @@ characters_visited:
   - "[[Tarisha Rex]]"
   - "[[Vockor Maff]]"
 sessions:
+  - "[[P03 - Naviya’s Cantina & Mandalorian Job]]"
 ---
 
 ## Notes
