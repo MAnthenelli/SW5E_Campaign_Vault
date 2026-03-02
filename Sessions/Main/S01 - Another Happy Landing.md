@@ -37,9 +37,6 @@ key_characters:
 - As the session wraps up, Galen sends a text to the PCs asking if they found Rashka.
 ## Outcomes
   - PCs reunited
-  - met 
-  - Rashka launched in a damaged escape pod when hope seemed lost.
+  - Tarboo, Ixora and H8 gained 100 credits
+  - Rashka is high
 ## Hooks
-  - Why did Coreft radicalize?
-  - What is on M4-78?
-  - Why is the SIS hiring the PCs?
