@@ -15,7 +15,7 @@ visited_celestial_bodies:
   - "[[Coruscant]]"
   - "[[Places/Core Worlds/Celestial_Bodies/M4-78]]"
 visited_planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 visited_locations:
   - "[[Jedi Temple]]"
 factions:

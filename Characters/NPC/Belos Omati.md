@@ -10,7 +10,7 @@ visited_galactic_regions:
 visited_celestial_bodies:
   - "[[Coruscant]]"
 visited_planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 visited_locations: []
 current_place:
 factions:

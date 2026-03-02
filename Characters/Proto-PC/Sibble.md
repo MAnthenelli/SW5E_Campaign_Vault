@@ -16,7 +16,7 @@ visited_celestial_bodies:
   - "[[Coruscant]]"
 visited_planetary_regions:
   - "[[Under City]]"
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 visited_locations:
   - "[[Alya Hideout]]"
   - "[[Naviya's Cantina]]"

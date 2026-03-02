@@ -8,7 +8,7 @@ present_celestial_bodies:
   - "[[Places/Core Worlds/Celestial_Bodies/Kwenn]]"
   - "[[Places/Core Worlds/Celestial_Bodies/M4-78]]"
 present_planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
   - "[[Under City]]"
 present_locations:
   - "[[Night Market]]"

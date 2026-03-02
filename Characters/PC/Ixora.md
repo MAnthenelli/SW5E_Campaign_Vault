@@ -15,7 +15,7 @@ visited_galactic_regions:
 visited_celestial_bodies:
   - "[[Coruscant]]"
 visited_planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 visited_locations:
   - "[[Jedi Temple]]"
   - "[[Recalcitrant III]]"
@@ -27,7 +27,7 @@ max_hp: 12
 passive_perception: 14
 languages:
   - Galactic Basic
-  -
+  - 
 ---
 ## Background
 

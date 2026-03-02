@@ -10,7 +10,7 @@ celestial_bodies:
   - "[[Coruscant]]"
   - "[[Places/Core Worlds/Celestial_Bodies/M4-78]]"
 planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 locations:
   - "[[Bantha Breath]]"
 ships:

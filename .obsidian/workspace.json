@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Coruscant/Federal District/Upper City.md",
+                "file": "Places/Core Worlds/Coruscant/Federal District/Senate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upper City"
+              "title": "Senate"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Places/Core Worlds/Coruscant/Federal District/Jedi Temple.md",
+    "Places/Core Worlds/Coruscant/Federal District/HNN Headquarters.md",
+    "Places/Core Worlds/Coruscant/Federal District/Federal District.md",
     "Sessions/Main/S01 - Another Happy Landing.md",
     "Home.md",
     "Factions/The Exchange.md",
@@ -213,9 +216,6 @@
     "Places/Core Worlds/Core Worlds.md",
     "Characters/NPC/Vockor Maff.md",
     "Characters/PC/Ixora.md",
-    "Characters/PC/H8-37.md",
-    "Characters/Proto-PC/R1-J8.md",
-    "Factions/Czerka Corporation.md",
     "Places/Core Worlds/Coruscant/Federal District",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",

@@ -6,7 +6,7 @@ present_galactic_regions:
 present_celestial_bodies:
   - "[[Coruscant]]"
 present_planetary_regions:
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 present_locations:
   - "[[Senate]]"
 allied_characters:
