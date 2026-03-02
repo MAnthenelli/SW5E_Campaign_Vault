@@ -40,3 +40,6 @@ key_characters:
   - Tarboo, Ixora and H8 gained 100 credits
   - Rashka is high
 ## Hooks
+- can fight Kivad
+- can take up mission
+- can respond to Galen
