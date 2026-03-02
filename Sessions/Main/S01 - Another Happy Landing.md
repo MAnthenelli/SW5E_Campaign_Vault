@@ -30,7 +30,7 @@ key_characters:
 ## Synopsis
 - Rashka, after ejecting herself from what she thought was certain death, does not see the ship explode and crash lands in the undercity, where two Aqualish Thugs, Bimmy and Rimmy (aussie and bendigo) notice her predicament and offer to "help"
 - Aboard the Recalcitrant III, SIS agents Basil Billingly and Crofwell Cuckinson (posh) debrief the PCs. They heal them and give them their reward of 300 credits each, docked 100 because they killed Ji-Toh. H8 is able to map the trajectory of the escape pod. Before dropping them off at an esplanade in the senate district, they say that the SIS will be in touch, but they won't go to the undercity.
-- Rashka is captured by the Thugs that take her to a Exchange base underneath the Bantha's Breath dive bar
+- Rashka is able to send a hurried distress call right before she opens the escape pod and is captured by the thugs who take her to a Exchange base underneath the Bantha's Breath dive bar
 - Galen Zullari hears Rashka's distress signals and kills Exchange thugs attempting to scavenge pod
 - PC meet Galen and go to Bantha's breath where 
 ## Outcomes
