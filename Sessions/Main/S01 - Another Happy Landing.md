@@ -33,7 +33,7 @@ key_characters:
 - Rashka is able to send a hurried distress call right before she opens the escape pod and is captured by the thugs who take her to an Exchange base underneath the Bantha's Breath dive bar. In the bar, she meets local exchange leader Kivad. Kivad puts her to work refining spice after Rashka mentions she is a scientist. 
 - Galen Zullari hears Rashka's distress signals and sends an agent, but he finds Duros thugs disassembling the escape pod for scraps. The rest of the PCs take a 100 credit taxi each down to the location and attempt to blend in with the Duros thugs. 
 - Eventually Galen himself with a few agents backing him confront the duros which ends with several duros dead and Galen sustaining minor injuries. He encourages the PCs to look for Rashka in Bantha's Breath (BB) while he takes care of the escape pod. 
-- PCs are welcomed into the exchange hideout after entering BB and are confronted by Kivad. Kivad confirms that they are keeping Rashka prisoner, but states they can get her back if they do a mission for her. Tarb 
+- PCs are welcomed into the exchange hideout after entering BB and are confronted by Kivad. Kivad confirms that they are keeping Rashka prisoner, but states they can get her back if they do a mission for her. Tarboo gives 2000 credits to allow Rashka to join them on a mission that Kivad describes.
 ## Outcomes
   - PCs reunited
   - met 
