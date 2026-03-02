@@ -28,6 +28,7 @@ key_characters:
   - "[[Kivad Gnak]]"
 ---
 ## Synopsis
+- Rashka immediately after ejecting her self from what she thought was certain death, does not see the ship explodes and crash lands in the 
 - The PCs try to reconvene as Rashka's escape-pod lands in the Drip-Works and she is captured by Exchange thugs while they debrief SIS agents after the mission
 - Rashka is captured by Bimmy and Rimmy, two Aqualish Thugs that take her to a Exchange base underneath the Bantha's Breath dive bar
 - Galen Zullari hears Rashka's distress signals and kills Exchange thugs attempting to scavenge pod
