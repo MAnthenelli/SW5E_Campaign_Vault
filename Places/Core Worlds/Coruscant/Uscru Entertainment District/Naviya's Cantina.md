@@ -17,8 +17,7 @@ characters_visited:
   - "[[Tarisha Rex]]"
   - "[[Vockor Maff]]"
 sessions:
-  - "[[P03]]"
 ---
 
 ## Notes
-- Regroup point; Zhellday night; bartender Naviya (Devaronian?) noted.
+- Regroup point; bartender Naviya (Devaronian?) noted.
