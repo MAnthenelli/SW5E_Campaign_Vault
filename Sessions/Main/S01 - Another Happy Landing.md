@@ -32,7 +32,8 @@ key_characters:
 - Aboard the Recalcitrant III, SIS agents Basil Billingly and Crofwell Cuckinson (posh) debrief the PCs. They heal them and give them their reward of 300 credits each, docked 100 because they killed Ji-Toh. H8 is able to map the trajectory of the escape pod. Before dropping them off at an esplanade in the senate district, the agents say that the SIS will be in touch, but they won't go to the undercity.
 - Rashka is able to send a hurried distress call right before she opens the escape pod and is captured by the thugs who take her to an Exchange base underneath the Bantha's Breath dive bar. In the bar, she meets local exchange leader Kivad. Kivad puts her to work refining spice after Rashka mentions she is a scientist. 
 - Galen Zullari hears Rashka's distress signals and sends an agent, but he finds Duros thugs disassembling the escape pod for scraps. The rest of the PCs take a 100 credit taxi each down to the location and attempt to blend in with the Duros thugs. 
-- Eventually Galen himself with a few agents tailing him confront the duros which ends with 
+- Eventually Galen himself with a few agents backing him confront the duros which ends with several duros dead and Galen sustaining minor injuries. He encourages the PCs to look for Rashka in Bantha's Breath while he takes care of the escape pod. 
+- 
 - PC meet Galen and go to Bantha's breath where 
 ## Outcomes
   - PCs reunited
