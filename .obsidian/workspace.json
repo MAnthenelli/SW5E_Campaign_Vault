@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Coruscant/Uscru Entertainment District/Under City.md",
+                "file": "Places/Core Worlds/Coruscant/Uscru Entertainment District/Naviya's Cantina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Under City"
+              "title": "Naviya's Cantina"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "69e6e7a2674c66f5",
   "lastOpenFiles": [
+    "Places/Core Worlds/Coruscant/Uscru Entertainment District/Under City.md",
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Bantha Breath.md",
     "Places/Core Worlds/Coruscant/Federal District/Senate.md",
     "Places/Core Worlds/Coruscant/Federal District/Jedi Temple.md",
@@ -204,7 +205,6 @@
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Naviya's Cantina.md",
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Night Market.md",
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Alya Hideout.md",
-    "Places/Core Worlds/Coruscant/Uscru Entertainment District/Under City.md",
     "conflict-files-obsidian-git.md",
     "Characters/PC/Tarboo.md",
     "Characters/Archetype/Exchange Agent (easy).md",

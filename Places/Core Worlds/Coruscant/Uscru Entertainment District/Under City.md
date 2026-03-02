@@ -37,4 +37,4 @@ sessions:
 ---
 
 ## Notes
-- Alya hides here after fleeing the temple.
+- close to POTU (“Periphery of the Uscru”)
