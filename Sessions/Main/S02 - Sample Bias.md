@@ -8,9 +8,8 @@ galactic_regions:
   - "[[Core Worlds]]"
 celestial_bodies:
   - "[[Coruscant]]"
-  - "[[Places/Core Worlds/Celestial_Bodies/M4-78]]"
 planetary_regions:
-  - "[[Federal District]]"
+  - "[[Under City]]"
 locations:
   - "[[Bantha Breath]]"
 ships:
@@ -39,8 +38,7 @@ key_characters:
 ## Outcomes
   - Tarboo in custody
   - Ion Trace Spectrometer purchased
-  - Tarboo, Ixora and H8 gained 100 credits
-  - Rashka is high
+  - 
 ## Hooks
 - can fight Kivad
 - can take up mission
