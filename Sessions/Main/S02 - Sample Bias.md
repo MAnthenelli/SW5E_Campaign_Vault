@@ -14,7 +14,8 @@ locations:
   - "[[Bantha's Breath]]"
 ships:
 factions:
-  - "[[SIS]]"
+  - "[[Czerka Corporation]]"
+  - "[[The Exchange]]"
 key_characters:
   - "[[Ixora]]"
   - "[[Rashka Doran]]"
