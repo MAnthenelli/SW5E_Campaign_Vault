@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Azurdok"
             }
+          },
+          {
+            "id": "7989194d96ede244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/Index - Characters.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Index - Characters"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,14 +214,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "765c7dedf701b2dd",
+  "active": "7989194d96ede244",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Indexes/Index - Sessions.md",
+    "Home.md",
+    "Characters/NPC/Azurdok.md",
+    "conflict-files-obsidian-git.md",
     "Sessions/Main/S03 - Strange Gizka.md",
     "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
     "Places/Core Worlds/Coruscant/Undercity Works",
-    "Characters/NPC/Azurdok.md",
     "Sessions/Main/S02 - Sample Bias.md",
     "Sessions/Main/S02 - The sampling method.md",
     "Indexes/Index - Factions.md",
@@ -219,7 +234,6 @@
     "Places/Outer Rim/Outer Rim.md",
     "Places/Hutt Space/Kwenn/Kwenn.md",
     "Places/Core Worlds/Celestial_Bodies/Kwenn.md",
-    "Home.md",
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Naviya's Cantina.md",
     "Places/Core Worlds/Coruscant/Lower Market District",
     "Places/Core Worlds/Coruscant/The Works",
