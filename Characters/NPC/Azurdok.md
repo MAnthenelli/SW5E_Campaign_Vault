@@ -15,12 +15,14 @@ visited_celestial_bodies: []
 visited_planetary_regions: []
 visited_locations: []
 factions:
+  - "[[Hutt Cartel]]"
 current_place: ""
 ---
 ## Appearance
 Short hair, scar on her face with an eyepatch
 ## Voice
-gravelly
+Neutral, detached, but slightly nerdy
 ## Backstory
+
 
 ## Notes
