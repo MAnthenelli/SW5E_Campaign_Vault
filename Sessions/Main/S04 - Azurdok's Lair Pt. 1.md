@@ -26,6 +26,6 @@ key_characters:
 - Azurdok presses on the crew which quickly devolves into full on conflict
 - Droids end up tranquilizing and subduing most of the crew with tranquilizers before deactivating H8
 - Azurdok then takes them one by one into a gas chamber and interrogates them asking their ties to the SIS and why they are here
-- 
+-  
 ## Outcomes
   - 
