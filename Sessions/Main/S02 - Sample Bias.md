@@ -11,7 +11,7 @@ celestial_bodies:
 planetary_regions:
   - "[[Under City]]"
 locations:
-  - "[[Bantha Breath]]"
+  - "[[Bantha's Breath]]"
 ships:
   - "[[Recalcitrant III]]"
 factions:

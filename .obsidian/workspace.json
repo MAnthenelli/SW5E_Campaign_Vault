@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Coruscant/Lower Market District/Night Market.md",
+                "file": "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Night Market"
+              "title": "Bantha's Breath"
             }
           }
         ],
@@ -242,9 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74bafb7ea9fd09b5",
+  "active": "69e6e7a2674c66f5",
   "lastOpenFiles": [
-    "Places/Core Worlds/Coruscant/Uscru Entertainment District/Bantha Breath.md",
+    "Places/Core Worlds/Coruscant/Lower Market District/Night Market.md",
+    "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
     "Places/Core Worlds/Coruscant/Coruscant.md",
     "Places/Core Worlds/Coruscant/Undercity Works",
     "Places/Core Worlds/Core Worlds.md",
@@ -270,7 +271,6 @@
     "Templates/Template - Faction.md",
     "Templates/Template - Character.md",
     "Templates/Template - Celestial Body.md",
-    "Templates/_Templates Parent.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",

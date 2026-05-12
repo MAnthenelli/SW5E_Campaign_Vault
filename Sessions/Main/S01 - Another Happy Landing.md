@@ -12,7 +12,7 @@ celestial_bodies:
 planetary_regions:
   - "[[Federal District]]"
 locations:
-  - "[[Bantha Breath]]"
+  - "[[Bantha's Breath]]"
 ships:
   - "[[Recalcitrant III]]"
 factions:
