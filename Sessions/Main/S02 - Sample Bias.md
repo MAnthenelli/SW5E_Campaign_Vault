@@ -34,7 +34,7 @@ key_characters:
 - They also followed up on where Kivad told them they could buy more and met Nole Sleazebaggano, a Balosar who was happy to sell
 - Decided to take samples all around the disctrict of water and test in the ITS
 - Analysis indicated that there was a higher concentration of the prototype giggledust around the level 2112 waste treatment plant, which was no longer operating for the planet.
-- 
+- Players went to nearby motel because they'd been awake since fighting 
 ## Outcomes
   - Tarboo in custody
   - Ion Trace Spectrometer purchased

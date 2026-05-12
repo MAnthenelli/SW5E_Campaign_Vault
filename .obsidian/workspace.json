@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
+                "file": "Sessions/Main/S02 - Sample Bias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bantha's Breath"
+              "title": "S02 - Sample Bias"
             }
           }
         ],
@@ -242,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e6e7a2674c66f5",
+  "active": "74bafb7ea9fd09b5",
   "lastOpenFiles": [
-    "Places/Core Worlds/Coruscant/Lower Market District/Night Market.md",
     "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
+    "Places/Core Worlds/Coruscant/Lower Market District/Night Market.md",
     "Places/Core Worlds/Coruscant/Coruscant.md",
     "Places/Core Worlds/Coruscant/Undercity Works",
     "Places/Core Worlds/Core Worlds.md",

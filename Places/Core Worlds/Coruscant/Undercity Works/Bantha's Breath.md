@@ -1,6 +1,6 @@
 ---
 type: location
-name: Coruscant - Naviya's Cantina
+name: Bantha's Breath
 celestial_body: "[[Coruscant]]"
 planetary_region: "[[Under City]]"
 location_type: Cantina
