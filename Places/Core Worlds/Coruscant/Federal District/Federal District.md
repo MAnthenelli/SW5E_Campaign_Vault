@@ -26,4 +26,4 @@ sessions:
 ---
 
 ## Notes
-- Seat of Republic government and formal Jedi presence.
+- some differentiate temple district from senate district, but they are close

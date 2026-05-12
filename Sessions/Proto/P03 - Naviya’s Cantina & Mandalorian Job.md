@@ -9,7 +9,7 @@ celestial_bodies:
   - "[[Coruscant]]"
 planetary_regions:
   - "[[Under City]]"
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 locations:
   - "[[Naviya's Cantina]]"
 ships: []

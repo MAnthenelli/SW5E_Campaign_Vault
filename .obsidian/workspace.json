@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Sessions/Main/S01 - Another Happy Landing.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "S01 - Another Happy Landing"
+            }
+          },
+          {
+            "id": "f66206a6002dfcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tarboo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tarboo"
+            }
+          },
+          {
+            "id": "bf7b7845e5ee5371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/Index - Characters.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index - Characters"
+            }
+          },
+          {
+            "id": "0bf9e23552bb25af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Main/S02 - The sampling method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S02 - The sampling method"
+            }
+          },
+          {
+            "id": "160cbdf859ce0363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,14 +242,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "160cbdf859ce0363",
   "lastOpenFiles": [
+    "Sessions/Main/S02 - The sampling method.md",
+    "conflict-files-obsidian-git.md",
+    "Sessions/Main/S01 - Another Happy Landing.md",
+    "Indexes/Index - Characters.md",
+    "Characters/PC/Tarboo.md",
+    "Home.md",
+    "Indexes/Index - Sessions.md",
+    "Characters/NPC/Kivad Gnak.md",
     "Factions/The Exchange.md",
     "Characters/PC/H8-37.md",
     "Characters/PC/Ixora.md",
-    "Characters/PC/Tarboo.md",
     "Characters/PC/Rashka Doran.md",
-    "Home.md",
     "Templates/Template - Ship Archetype.md",
     "Templates/Template - Ship.md",
     "Templates/Template - Session (Proto).md",
@@ -207,12 +270,6 @@
     "Characters/NPC/Q'russ.md",
     "Characters/Archetype/Exchange Agent (easy).md",
     "Characters/Archetype/Gamorrean Guard.md",
-    "Indexes/Index - Factions.md",
-    "Indexes/Index - Places.md",
-    "Factions/Galactic Republic.md",
-    "Factions/Czerka Corporation.md",
-    "Factions/Coruscant Echo.md",
-    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",

@@ -2,7 +2,7 @@
 type: location
 name: Coruscant - Jedi Temple
 celestial_body: "[[Coruscant]]"
-planetary_region: "[[Upper City]]"
+planetary_region: "[[Federal District]]"
 location_type: Temple
 factions_present:
   - "[[Jedi Order]]"

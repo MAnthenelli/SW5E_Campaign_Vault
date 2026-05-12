@@ -6,7 +6,7 @@ galactic_region: "[[Core Worlds]]"
 ecosystem: Ecumenopolis / city-planet
 planetary_regions:
   - "[[Under City]]"
-  - "[[Upper City]]"
+  - "[[Federal District]]"
 factions_present:
   - "[[Galactic Republic]]"
   - "[[SIS]]"

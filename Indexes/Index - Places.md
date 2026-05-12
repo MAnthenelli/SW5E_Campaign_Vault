@@ -14,7 +14,7 @@ Hierarchy: Galactic Region → Celestial Body → Planetary Region → Location
     - Location: [[Alya Hideout]]
     - Location: [[Naviya's Cantina]]
     - Location: [[Night Market]]
-  - Planetary Region: [[Upper City]]
+  - Planetary Region: [[Federal District]]
     - Location: [[HNN Headquarters]]
     - Location: [[Jedi Temple]]
     - Location: [[Senate]]

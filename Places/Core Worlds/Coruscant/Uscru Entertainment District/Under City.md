@@ -18,7 +18,7 @@ characters_visited:
   - "[[Alya Vek]]"
   - "[[BA-136]]"
   - "[[Cray]]"
-  - "[[Galen Zullari]]"
+  - "[[Characters/NPC/Galen Zullari]]"
   - "[[Gamorrean Guard]]"
   - "[[Q'russ]]"
   - "[[R1-J8]]"
@@ -37,4 +37,4 @@ sessions:
 ---
 
 ## Notes
-- Alya hides here after fleeing the temple.
+- close to POTU (“Periphery of the Uscru”)

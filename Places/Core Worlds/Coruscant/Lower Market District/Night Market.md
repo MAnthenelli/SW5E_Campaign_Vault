@@ -12,7 +12,7 @@ characters_present: []
 characters_visited:
   - "[[Alya Vek]]"
   - "[[Cray]]"
-  - "[[Galen Zullari]]"
+  - "[[Characters/NPC/Galen Zullari]]"
   - "[[Q'russ]]"
   - "[[R1-J8]]"
   - "[[SIS Agent]]"

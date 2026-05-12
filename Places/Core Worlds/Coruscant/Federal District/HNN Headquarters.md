@@ -2,7 +2,7 @@
 type: location
 name: Coruscant - HNN Headquarters
 celestial_body: "[[Coruscant]]"
-planetary_region: "[[Upper City]]"
+planetary_region: "[[Federal District]]"
 location_type: HQ
 factions_present:
   - "[[HoloNet News (HNN)]]"
