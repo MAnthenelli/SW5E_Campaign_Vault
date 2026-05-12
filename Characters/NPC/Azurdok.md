@@ -25,7 +25,7 @@ Neutral, detached, but slightly nerdy
 ## Backstory
 Azurdok was a slave on Nal Hutta that was bright, but was admired by Durzoka for ruthlessness and proclivity for learning science
 
-Is in charge of developing drug that can help encourage docile or agitated states to control 
+Is in charge of developing drug that can help encourage docile or agitated states to control/boost productivity of workers. Czerka is funding this in collaboration with Hutt Cartel
 
 Didn't have a name, so took anagram of Durzoka because he admired him
 
