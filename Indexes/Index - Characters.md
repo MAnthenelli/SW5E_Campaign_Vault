@@ -22,18 +22,9 @@ name: Characters Index
 - [[Xerses]]
 
 ## NPCs
-- [[Alya Vek]]
-- [[BA-136]]
-- [[Belos Omati]]
-- [[Bendak Ulgo]]
-- [[Durzoka the Hutt]]
-- [[Emperor Vitiate]]
-- [[Emporer Vitiate]]
-- [[Characters/NPC/Galen Zullari]]
-- [[Ji-toh Coreft]]
-- [[Q'russ]]
-- [[Tia Rell]]
-- [[Vockor Maff]]
+```dataview
+LIST FROM "Characters/NPC"
+```
 
 ## Archetypes
 - [[Gamorrean Guard]]
