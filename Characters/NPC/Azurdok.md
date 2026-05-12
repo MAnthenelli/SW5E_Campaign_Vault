@@ -19,7 +19,7 @@ factions:
 current_place: ""
 ---
 ## Appearance
-some cybernetic enhancements on torso, wears white labcoar
+some cybernetic enhancements on torso, wears white lab coat and lab goggles
 ## Voice
 Neutral, detached, but slightly nerdy
 ## Backstory
