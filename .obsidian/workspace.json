@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sessions/Main/S02 - The sampling method.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "S02 - The sampling method"
             }
           }
         ],
@@ -244,8 +244,8 @@
   },
   "active": "74bafb7ea9fd09b5",
   "lastOpenFiles": [
-    "Sessions/Main/S02 - The sampling method.md",
     "conflict-files-obsidian-git.md",
+    "Sessions/Main/S02 - The sampling method.md",
     "Sessions/Main/S01 - Another Happy Landing.md",
     "Indexes/Index - Characters.md",
     "Characters/PC/Tarboo.md",
