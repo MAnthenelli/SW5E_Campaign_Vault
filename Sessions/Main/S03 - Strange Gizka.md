@@ -31,10 +31,10 @@ key_characters:
 - They then go to Kivad and report they have identified a likely location of giggledust production
 - The crew goes to the location and finds a mutated, dead Gizka
 - H8 tries to peek in the front entrance of the warehouse and sonic alarms which frenzy the gizkas activate
-- Crew fights through gizka's and seemingly abandoned warehouse and takes a cargolift to lower levels where they are greeted by a Dug and a Rancor, who welcome them and take them down to the secret lab where the giggledust is produced
+- Crew fights through gizka's within seemingly abandoned warehouse and takes a cargolift to lower levels where they are greeted by a Dug and a Rancor, who welcome them and take them down to the secret lab where the giggledust is produced
 ## Outcomes
   - Tarboo reunited
-  - Ion Trace Spectrometer purchased
+  - Players level up
   - 
 ## Hooks
 - can fight Kivad
