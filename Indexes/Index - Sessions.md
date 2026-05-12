@@ -7,8 +7,9 @@ name: Sessions Index
 # Sessions
 
 ## Main Campaign Sessions
-- [[S00 - Stowaways on the Recalcitrant III]]
-
+```dataview
+LIST FROM "Sessions/Main"
+```
 ## Proto Sessions
 - [[P01 - Alya’s Hideout]]
 - [[P02 - Night Market Ambush]]
@@ -16,6 +17,6 @@ name: Sessions Index
 
 ## (Optional) Dataview
 ```dataview
-LIST FROM "02_Sessions/01_Main"
+LIST FROM "Sessions/Main"
 ```
 

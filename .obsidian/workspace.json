@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Index - Characters.md",
+                "file": "Indexes/Index - Sessions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index - Characters"
+              "title": "Index - Sessions"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "7989194d96ede244",
   "lastOpenFiles": [
+    "Indexes/Index - Characters.md",
     "Indexes/Index - Sessions.md",
     "Home.md",
     "Characters/NPC/Azurdok.md",
@@ -245,7 +246,6 @@
     "Places/Core Worlds/Coruscant/Federal District/HNN Headquarters.md",
     "Places/Core Worlds/Coruscant/Federal District/Federal District.md",
     "Factions/The Exchange.md",
-    "Ships/NPC_Ships/Recalcitrant III.md",
     "Rulebook/Features",
     "Rulebook",
     "Stats",
