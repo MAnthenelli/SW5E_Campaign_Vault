@@ -26,4 +26,6 @@ Neutral, detached, but slightly nerdy
 Azurdok was a slave on Nal Hutta that was bright, but was admired by Durzoka for ruthlessness and proclivity for learning science
 
 Didn't have a name, so took anagram of Durzoka because he admired him
+
+Performed drug therapy treatment on 
 ## Notes
