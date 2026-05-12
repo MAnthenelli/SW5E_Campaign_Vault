@@ -19,6 +19,7 @@ factions:
   - "[[Jedi Order]]"
   - "[[SIS]]"
   - "[[Galactic Republic]]"
+  - "[[The Exchange]]"
 key_characters:
   - "[[Ixora]]"
   - "[[Rashka Doran]]"

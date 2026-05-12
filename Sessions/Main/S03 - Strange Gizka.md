@@ -13,11 +13,10 @@ planetary_regions:
 locations:
   - "[[Bantha's Breath]]"
 ships:
-  - "[[Recalcitrant III]]"
 factions:
-  - "[[Jedi Order]]"
   - "[[SIS]]"
-  - "[[Galactic Republic]]"
+  - "[[The Exchange]]"
+  - "[[Hutt Cartel]]"
 key_characters:
   - "[[Ixora]]"
   - "[[Rashka Doran]]"
