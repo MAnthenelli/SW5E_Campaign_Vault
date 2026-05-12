@@ -20,8 +20,7 @@ key_characters:
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"
-  - "[[Kivad Gnak]]"
-  - "[[Galen Zullari]]"
+  - "[[Azurdok]]"
 ---
 ## Synopsis
 - 
