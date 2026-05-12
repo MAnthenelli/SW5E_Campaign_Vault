@@ -19,11 +19,11 @@ factions:
 current_place: ""
 ---
 ## Appearance
-Short hair, scar on her face with an eyepatch
+some cybernetic enhancements on torso, wears white labcoar
 ## Voice
 Neutral, detached, but slightly nerdy
 ## Backstory
 Azurdok was a slave on Nal Hutta that was bright, but was admired by Durzoka for ruthlessness and proclivity for learning science
 
-Didn't have a name, so took anagram of 
+Didn't have a name, so took anagram of Durzoka because he admired him
 ## Notes
