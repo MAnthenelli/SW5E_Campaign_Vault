@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Main/S03 - Azurdok's Lair Pt. 1.md",
+                "file": "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S03 - Azurdok's Lair Pt. 1"
+              "title": "S04 - Azurdok's Lair Pt. 1"
             }
           }
         ],
@@ -245,7 +245,9 @@
   "active": "cb59f18fd07cf20d",
   "lastOpenFiles": [
     "Sessions/Main/S03 - Strange Gizka.md",
-    "Sessions/Main/S03 - Azurdok's Lair Pt. 1.md",
+    "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
+    "Sessions/Main/S02 - Sample Bias.md",
+    "Sessions/Main/S01 - Another Happy Landing.md",
     "Indexes/Index - Factions.md",
     "Home.md",
     "Characters/NPC/Azurdok.md",
@@ -254,10 +256,8 @@
     "conflict-files-obsidian-git.md",
     "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",
     "Places/Core Worlds/Coruscant/Undercity Works",
-    "Sessions/Main/S02 - Sample Bias.md",
     "Sessions/Main/S02 - The sampling method.md",
     "Characters/PC/Tarboo.md",
-    "Sessions/Main/S01 - Another Happy Landing.md",
     "Places/Core Worlds/Celestial_Bodies/M4-78.md",
     "Places/Core Worlds/Celestial_Bodies/Template Spaceport.md",
     "Places/Hutt Space/Hutt Space.md",
