@@ -27,7 +27,8 @@ key_characters:
   - "[[Kivad Gnak]]"
 ---
 ## Synopsis
-- The crew wake up and are greeted by a Rodian SIS agent who hands them
+- The crew wake up and are greeted by a Rodian SIS agent who forces them into a holocall with Galen, who asks them what they are doing and they say that they're looking into the proto-type giggledust
+- 
 ## Outcomes
   - Tarboo in custody
   - Ion Trace Spectrometer purchased
