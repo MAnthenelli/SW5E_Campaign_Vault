@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Core Worlds/Core Worlds.md",
+                "file": "Places/Core Worlds/Coruscant/Lower Market District/Night Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Worlds"
+              "title": "Night Market"
             }
           }
         ],
@@ -244,6 +244,10 @@
   },
   "active": "74bafb7ea9fd09b5",
   "lastOpenFiles": [
+    "Places/Core Worlds/Coruscant/Uscru Entertainment District/Bantha Breath.md",
+    "Places/Core Worlds/Coruscant/Coruscant.md",
+    "Places/Core Worlds/Coruscant/Undercity Works",
+    "Places/Core Worlds/Core Worlds.md",
     "Sessions/Main/S02 - Sample Bias.md",
     "conflict-files-obsidian-git.md",
     "Sessions/Main/S01 - Another Happy Landing.md",
@@ -267,13 +271,9 @@
     "Templates/Template - Character.md",
     "Templates/Template - Celestial Body.md",
     "Templates/_Templates Parent.md",
-    "Characters/NPC/Q'russ.md",
-    "Characters/Archetype/Exchange Agent (easy).md",
-    "Characters/Archetype/Gamorrean Guard.md",
     "Places/Core Worlds/Coruscant/Upper City",
     "Places/Core Worlds/Coruscant/Under City",
     "Places/Hutt Space/Kwenn",
-    "Untitled",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Planetary_Regions",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant/Locations",
     "Places/Hutt Space/Celestial_Bodies 1/Coruscant",
