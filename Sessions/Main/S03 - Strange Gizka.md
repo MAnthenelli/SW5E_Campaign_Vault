@@ -32,6 +32,7 @@ key_characters:
 - The crew goes to the location and finds a mutated, dead Gizka
 - H8 tries to peek in the front entrance of the warehouse and sonic alarms which frenzy the gizkas activate
 - Crew fights through gizka's within seemingly abandoned warehouse and takes a cargolift to lower levels where they are greeted by a Dug and a Rancor, who welcome them and take them down to the secret lab where the giggledust is produced
+- The Dug who initially went along with the parties ruse that they were bringing him drugs 
 ## Outcomes
   - Tarboo reunited
   - Players level up
