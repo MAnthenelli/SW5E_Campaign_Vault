@@ -23,6 +23,7 @@ key_characters:
   - "[[Azurdok]]"
 ---
 ## Synopsis
-- 
+- Azurdok presses on the crew which quickly devolves into full on conflict
+- U
 ## Outcomes
   - 
