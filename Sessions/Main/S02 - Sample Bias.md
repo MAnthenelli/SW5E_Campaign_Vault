@@ -21,7 +21,6 @@ key_characters:
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"
-  - "[[Ji-toh Coreft]]"
   - "[[Kivad Gnak]]"
 ---
 ## Synopsis
@@ -37,7 +36,3 @@ key_characters:
   - Tarboo in custody
   - Ion Trace Spectrometer purchased
   - 
-## Hooks
-- can fight Kivad
-- can take up mission
-- can respond to Galen

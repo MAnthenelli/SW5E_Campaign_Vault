@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Main/S03 - Strange Gizka.md",
+                "file": "Sessions/Main/S01 - Another Happy Landing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S03 - Strange Gizka"
+              "title": "S01 - Another Happy Landing"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78f4eda6cb4dc5f8",
+  "active": "69e6e7a2674c66f5",
   "lastOpenFiles": [
-    "Sessions/Main/S02 - Sample Bias.md",
     "Sessions/Main/S03 - Strange Gizka.md",
+    "Sessions/Main/S02 - Sample Bias.md",
     "Sessions/Main/S01 - Another Happy Landing.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
     "Places/Core Worlds/Coruscant/Undercity Works/Bantha's Breath.md",

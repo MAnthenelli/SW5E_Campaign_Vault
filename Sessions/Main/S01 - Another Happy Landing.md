@@ -25,8 +25,8 @@ key_characters:
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"
-  - "[[Ji-toh Coreft]]"
   - "[[Kivad Gnak]]"
+  - "[[Galen Zullari]]"
 ---
 ## Synopsis
 - Rashka, after ejecting herself from what she thought was certain death, does not see the ship explode and crash lands in the undercity, where two Aqualish Thugs--Bimmy and Rimmy (aussie and bendigo)--notice her predicament and offer to "help".

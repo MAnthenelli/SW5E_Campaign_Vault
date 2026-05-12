@@ -22,8 +22,8 @@ key_characters:
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"
-  - "[[Ji-toh Coreft]]"
   - "[[Kivad Gnak]]"
+  - "[[Galen Zullari]]"
 ---
 ## Synopsis
 - The crew wake up and are greeted by a Rodian SIS agent who forces them into a holocall with Galen, who asks them what they are doing and they say that they're looking into the proto-type giggledust
@@ -36,7 +36,3 @@ key_characters:
   - Tarboo reunited
   - Players level up
   - 
-## Hooks
-- can fight Kivad
-- can take up mission
-- can respond to Galen
