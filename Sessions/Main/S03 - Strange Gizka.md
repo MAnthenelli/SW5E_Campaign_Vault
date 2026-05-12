@@ -27,6 +27,7 @@ key_characters:
 ---
 ## Synopsis
 - The crew wake up and are greeted by a Rodian SIS agent who forces them into a holocall with Galen, who asks them what they are doing and they say that they're looking into the proto-type giggledust
+- They are given one holoco
 - They then go to Kivad and report they have identified a likely location of giggledust production
 - 
 ## Outcomes
