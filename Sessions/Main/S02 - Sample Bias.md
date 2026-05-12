@@ -31,7 +31,8 @@ key_characters:
 - Tarboo got high and went back into the lab as collateral for Kivad
 - Kivad briefed the group about the mission, which was to find out more about the prototype giggledust
 - Kivad then gave the players a small sample of the giggledust
-- The players went to the Czerka Undercity Works outpost, where they met Nayda a devaronian who liked their gumption and sold them an Ion Trace Spectrometer, which Rashka Hypoothesized that 
+- The players went to the Czerka Undercity Works outpost, where they met Nayda a devaronian who liked their gumption and sold them an Ion Trace Spectrometer, which Rashka hypothesized would be able to identify areas with larger traces of their specific spice
+- Met Nole Sleazebaggano, 
 - Aboard the Recalcitrant III, SIS agents Basil Billingly and Crofwell Cuckinson (posh) debrief the PCs. They heal them and give them their reward of 300 credits each, docked 100 because they killed Ji-Toh. H8 is able to map the trajectory of the escape pod. Before dropping them off at an esplanade in the senate district, the agents say that the SIS will be in touch, but they won't go to the undercity.
 - Rashka is able to send a hurried distress call right before she opens the escape pod and is captured by the thugs who take her to an Exchange base underneath the Bantha's Breath dive bar. In the bar, she meets local exchange leader Kivad. Kivad puts her to work refining spice after Rashka mentions she is a scientist. 
 - Galen Zullari hears Rashka's distress signals and sends an agent, but he finds Duros thugs disassembling the escape pod for scraps. The rest of the PCs take a 100 credit taxi each down to the location and attempt to blend in with the Duros thugs. 
