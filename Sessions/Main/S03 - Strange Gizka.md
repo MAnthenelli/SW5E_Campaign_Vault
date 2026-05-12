@@ -28,9 +28,10 @@ key_characters:
 ---
 ## Synopsis
 - The crew wake up and are greeted by a Rodian SIS agent who forces them into a holocall with Galen, who asks them what they are doing and they say that they're looking into the proto-type giggledust
+- They then go to Kivad and report they have identified a likely location of giggledust production
 - 
 ## Outcomes
-  - Tarboo in custody
+  - Tarboo reunited
   - Ion Trace Spectrometer purchased
   - 
 ## Hooks
