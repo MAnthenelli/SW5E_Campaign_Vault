@@ -27,5 +27,5 @@ Azurdok was a slave on Nal Hutta that was bright, but was admired by Durzoka for
 
 Didn't have a name, so took anagram of Durzoka because he admired him
 
-Performed drug therapy treatment on 
+Performed drug therapy treatment on rancor successfully forcing cooperation
 ## Notes
