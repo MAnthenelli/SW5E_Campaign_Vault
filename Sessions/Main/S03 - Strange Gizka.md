@@ -30,7 +30,8 @@ key_characters:
 - They are given one holocommunicator by the SIS
 - They then go to Kivad and report they have identified a likely location of giggledust production
 - The crew goes to the location and finds a mutated, dead Gizka
-- H8 tries to sneak in
+- H8 tries to peek in the front entrance of the warehouse and sonic alarms which frenzy the gizkas activate
+- Crew fights through gizka's and seemingly abandoned warehouse 
 ## Outcomes
   - Tarboo reunited
   - Ion Trace Spectrometer purchased
