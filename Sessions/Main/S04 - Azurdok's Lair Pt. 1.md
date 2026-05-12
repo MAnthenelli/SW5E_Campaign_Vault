@@ -24,6 +24,6 @@ key_characters:
 ---
 ## Synopsis
 - Azurdok presses on the crew which quickly devolves into full on conflict
-- U
+- Driod
 ## Outcomes
   - 
