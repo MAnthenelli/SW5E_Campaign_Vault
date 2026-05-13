@@ -1,7 +1,7 @@
 ---
 type: session
 session_index: 1
-title: Another Happy Landing
+title: Strange Gizka
 session_type: campaign session
 in_world_date: 3,683 BBY (campaign start)
 galactic_regions:
