@@ -10,6 +10,7 @@ class_sw5e_url: https://www.sw5e.com/characters/classes/Guardian
 gender: Female
 sessions:
   - "[[S00 - Stowaways on the Recalcitrant III]]"
+  - "[[S01 - Another Happy Landing]]"
 visited_galactic_regions:
   - "[[Core Worlds]]"
 visited_celestial_bodies:
