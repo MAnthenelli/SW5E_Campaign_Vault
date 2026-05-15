@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S04 - Azurdok's Lair Pt. 1"
+              "title": "Home"
             }
           }
         ]
@@ -187,10 +187,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
     "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
     "Characters/PC/Ixora Tenri.md",
     "Home.md",
-    "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
     "Indexes/Index - Factions.md",
     "Indexes/Index - Sessions.md",
     "Characters/NPC/Azurdok.md",
