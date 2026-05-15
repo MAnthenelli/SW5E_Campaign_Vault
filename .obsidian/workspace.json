@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Proto/P03 - Naviya’s Cantina & Mandalorian Job.md",
+                "file": "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P03 - Naviya’s Cantina & Mandalorian Job"
+              "title": "S04 - Azurdok's Lair Pt. 1"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "f64f12eae3a8a8b2",
   "lastOpenFiles": [
+    "Sessions/Proto/P03 - Naviya’s Cantina & Mandalorian Job.md",
     "Sessions/Proto/P02 - Night Market Ambush.md",
     "Sessions/Proto/P01 - Alya’s Hideout.md",
     "Home.md",
@@ -216,7 +217,6 @@
     "Places/Core Worlds/Coruscant/Lower Market District",
     "Places/Core Worlds/Coruscant/The Works",
     "Places/Core Worlds/Coruscant/CoCo Town",
-    "Places/Core Worlds/Coruscant/Uscru Entertainment District/Under City.md",
     "Rulebook/Features",
     "Rulebook",
     "Stats",
