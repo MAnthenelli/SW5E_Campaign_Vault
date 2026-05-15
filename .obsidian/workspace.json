@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb59f18fd07cf20d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,11 +185,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb59f18fd07cf20d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Indexes/Index - Factions.md",
+    "Sessions/Main/S00 - Stowaways on the Recalcitrant III.md",
+    "Characters/PC/Ixora Tenri.md",
     "Home.md",
     "Sessions/Main/S04 - Azurdok's Lair Pt. 1.md",
+    "Indexes/Index - Factions.md",
     "Indexes/Index - Sessions.md",
     "Characters/NPC/Azurdok.md",
     "Sessions/Main/S03 - Strange Gizka.md",
@@ -215,8 +217,6 @@
     "Places/Core Worlds/Coruscant/Uscru Entertainment District/Bantha Breath.md",
     "Places/Core Worlds/Coruscant/Federal District/Senate.md",
     "Places/Core Worlds/Coruscant/Federal District/Jedi Temple.md",
-    "Places/Core Worlds/Coruscant/Federal District/HNN Headquarters.md",
-    "Places/Core Worlds/Coruscant/Federal District/Federal District.md",
     "Rulebook/Features",
     "Rulebook",
     "Stats",

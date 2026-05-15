@@ -8,7 +8,7 @@ name: Characters Index
 
 ## PCs
 - [[H8-37]]
-- [[Ixora]]
+- [[Ixora Tenri]]
 - [[Rashka Doran]]
 - [[Tarboo]]
 

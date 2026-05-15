@@ -1,6 +1,6 @@
 ---
 type: character
-name: Ixora
+name: Ixora Tenri
 character_type: PC
 level: 1
 species: Twi'lek
@@ -27,7 +27,7 @@ max_hp: 12
 passive_perception: 14
 languages:
   - Galactic Basic
-  - 
+  -
 ---
 ## Background
 

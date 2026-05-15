@@ -16,7 +16,7 @@ ships:
 factions:
   - "[[Hutt Cartel]]"
 key_characters:
-  - "[[Ixora]]"
+  - "[[Ixora Tenri]]"
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"

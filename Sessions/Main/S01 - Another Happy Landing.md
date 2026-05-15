@@ -21,7 +21,7 @@ factions:
   - "[[Galactic Republic]]"
   - "[[The Exchange]]"
 key_characters:
-  - "[[Ixora]]"
+  - "[[Ixora Tenri]]"
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"
