@@ -31,7 +31,7 @@ languages:
 ---
 ## Background
 
-18th b
+18th bday parents throw party and rashka is unamused
 
 
 30 years old
