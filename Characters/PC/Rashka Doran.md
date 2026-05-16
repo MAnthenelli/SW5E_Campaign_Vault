@@ -32,4 +32,5 @@ languages:
 ## Background
 
 30 years old
-coruscant or other planet
+Coruscant or other planet
+nano-tech experiments with brain chip or prosthetics
