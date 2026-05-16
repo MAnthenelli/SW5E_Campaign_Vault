@@ -33,4 +33,3 @@ languages:
 
 30 years old
 Coruscant or other planet
-nano-tech experiments with brain chip or prosthetics
