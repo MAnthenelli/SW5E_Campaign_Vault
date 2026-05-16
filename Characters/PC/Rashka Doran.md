@@ -33,3 +33,6 @@ languages:
 
 30 years old
 Coruscant or other planet
+police come during experiment, 
+
+need to name assistant
