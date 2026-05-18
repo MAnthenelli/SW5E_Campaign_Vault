@@ -38,4 +38,5 @@ https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/
 - they eventually get Asdru's lightstaff but quickly ship alarm sounds and they're freaked out and run
 - ambiguous if Asdru survives
 - narrate crash landing 
+- 
 
