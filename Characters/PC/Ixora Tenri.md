@@ -38,6 +38,6 @@ https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/
 - they eventually get Asdru's lightstaff but quickly ship alarm sounds and they're freaked out and run
 - ambiguous if Asdru survives
 - narrate crash landing and staying in the pod
-- maybe elmiri finds the pod and convinces her to come out?
-- 
+- maybe elmiri finds the pod and convinces her to come out? have small scene of elmiri helping and talking to her
+- flash forward a few years to a young adult Ixora talking with Elmiri in
 
