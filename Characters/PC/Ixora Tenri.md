@@ -34,5 +34,6 @@ languages:
 https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/edit?tab=t.0
 
 - cold open on ship with ixora and Zaiyu have dialogue and actions highlight parents position and general vibe
-- 
+- they eventually get Asdru's lightstaff (does Ixora keep it?)
+- ambiguous if A
 
