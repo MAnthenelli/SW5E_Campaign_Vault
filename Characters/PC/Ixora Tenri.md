@@ -33,7 +33,8 @@ languages:
 ## Background
 https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/edit?tab=t.0
 
-- first scene showing ixora with asdru realizing she's force sensitive
+- first scene showing ixora with asdru realizing she's force sensitive and he began to instruct her
+- 
 - fast forward a bit with Ixora and Zaiyu have dialogue and actions highlight parents position and general vibe
 - they eventually get Asdru's lightstaff but quickly ship alarm sounds and they're freaked out and run
 - ambiguous if Asdru survives
