@@ -39,5 +39,5 @@ https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/
 - ambiguous if Asdru survives
 - narrate crash landing and staying in the pod
 - maybe elmiri finds the pod and convinces her to come out? have small scene of elmiri helping and talking to her
-- flash forward a few years to a young adult Ixora talking with Elmiri in
+- flash forward present day talking with Elmiri in his home on corellia, orwa comes in 
 
