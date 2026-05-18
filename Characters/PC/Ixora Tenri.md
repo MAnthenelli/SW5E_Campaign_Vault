@@ -33,9 +33,8 @@ languages:
 ## Background
 https://docs.google.com/document/d/1onASySnFz0MvLFJMosz6RieG-uWpIHO93vBiXy_7oTI/edit?tab=t.0
 
-- first scene showing ixora with asdru realizing she's force sensitive and he began to instruct her
-- 
-- fast forward a bit to ship going from Ryloth to Co with Ixora and Zaiyu have dialogue and actions highlight parents position and general vibe
+- first scene showing Ixora with Asdru realizing she's force sensitive and he began to instruct her on Ryloth and also introduce parents
+- fast forward a bit to ship going from Ryloth to Corellia with Ixora and Zaiyu. They have dialogue and actions highlight parents position and general vibe
 - they eventually get Asdru's lightstaff but quickly ship alarm sounds and they're freaked out and run
 - ambiguous if Asdru survives
 - 
