@@ -31,8 +31,11 @@ languages:
 ---
 ## Background
 
-Mom- 
-18th bday parents throw party and rashka is unamused
+Mom- Fretheh 
+Dad- Brentos
+
+ice sculpture
+18th bday parents throw party and Rashka is unamused
 
 
 
