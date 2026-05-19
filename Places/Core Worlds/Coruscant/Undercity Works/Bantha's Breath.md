@@ -11,7 +11,7 @@ characters_visited:
   - "[[Tarboo]]"
   - "[[H8-37]]"
   - "[[Rashka Doran]]"
-  - "[[Ixora]]"
+  - "[[Ixora Tenri]]"
 sessions:
 ---
 ## Notes

@@ -8,7 +8,7 @@ manufacturer:
 crew:
   - "[[Ji-toh Coreft]]"
 visitors:
-  - "[[Ixora]]"
+  - "[[Ixora Tenri]]"
   - "[[Rashka Doran]]"
   - "[[Tarboo]]"
   - "[[H8-37]]"

@@ -15,7 +15,7 @@ factions_present:
 characters_present: []
 characters_visited:
   - "[[H8-37]]"
-  - "[[Ixora]]"
+  - "[[Ixora Tenri]]"
   - "[[Ji-toh Coreft]]"
   - "[[Rashka Doran]]"
   - "[[Sibble]]"

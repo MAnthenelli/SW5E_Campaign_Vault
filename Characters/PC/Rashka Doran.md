@@ -31,3 +31,12 @@ languages:
 ---
 ## Background
 
+18th bday parents throw party and rashka is unamused
+
+
+30 years old
+Coruscant or other planet
+police come during experiment, 
+
+need to name assistant
+jump to scene with board of regents for plea deal of SIS cooperation
