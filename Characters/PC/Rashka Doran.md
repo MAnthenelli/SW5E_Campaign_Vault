@@ -36,6 +36,8 @@ Dad- Brentos
 
 ice sculpture
 18th bday parents throw party and Rashka is unamused
+invited her classmates from preschool
+
 
 University of Coruscant- Madina
 
@@ -43,5 +45,5 @@ University of Coruscant- Madina
 Coruscant or other planet
 police come during experiment, 
 
-
+Assistant name Koultoumy
 jump to scene with board of regents for plea deal of SIS cooperation
