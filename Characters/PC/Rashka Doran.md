@@ -37,7 +37,7 @@ Dad- Brentos
 ice sculpture
 18th bday parents throw party and Rashka is unamused
 
-
+University of Coruscant- 
 
 30 years old
 Coruscant or other planet
