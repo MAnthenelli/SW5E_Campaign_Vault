@@ -2,12 +2,59 @@
 
 
 
-<!-- SOURCE FILE:  -->
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S00 - Stowaways on the Recalcitrant III.md -->
 
-# Source: 
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S00 - Stowaways on the Recalcitrant III.md
 
 
-<!-- END SOURCE FILE:  -->
+---
+type: session
+session_index: 0
+title: Stowaways on the Recalcitrant III
+session_type: campaign session
+in_world_date: 3,683 BBY (campaign start)
+galactic_regions:
+  - "[[Core Worlds]]"
+celestial_bodies:
+  - "[[Coruscant]]"
+  - "[[Places/Core Worlds/Celestial_Bodies/M4-78]]"
+planetary_regions:
+  - "[[Federal District]]"
+locations:
+  - "[[Jedi Temple]]"
+ships:
+  - "[[Recalcitrant III]]"
+factions:
+  - "[[Jedi Order]]"
+  - "[[SIS]]"
+  - "[[Galactic Republic]]"
+key_characters:
+  - "[[Ixora Tenri]]"
+  - "[[Rashka Doran]]"
+  - "[[Tarboo]]"
+  - "[[H8-37]]"
+  - "[[Ji-toh Coreft]]"
+---
+## Synopsis
+- The PCs stow away on Recalcitrant III as Ji-Toh attempts a suicide bombing run into the Jedi Temple using a Baradian Compression Bomb. The PCs stop him in a brutal fight.
+## Outcomes
+  - Ji-toh is killed
+  - Temple is saved
+  - Rashka launched in a damaged escape pod when hope seemed lost.
+## Hooks
+  - Why did Coreft radicalize?
+  - What is on M4-78?
+  - Why is the SIS hiring the PCs?
+
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S00 - Stowaways on the Recalcitrant III.md -->
+
+
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S01 - Another Happy Landing.md -->
+
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S01 - Another Happy Landing.md
+
+
 ---
 type: session
 session_index: 1
@@ -55,7 +102,15 @@ key_characters:
 - can take up mission
 - can respond to Galen
 
-<!-- END SOURCE FILE:  -->
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S01 - Another Happy Landing.md -->
+
+
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S02 - Sample Bias.md -->
+
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S02 - Sample Bias.md
+
+
 ---
 type: session
 session_index: 1
@@ -95,8 +150,14 @@ key_characters:
   - Ion Trace Spectrometer purchased
   - 
 
-<!-- END SOURCE FILE:  -->
-# Source: 
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S02 - Sample Bias.md -->
+
+
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S03 - Strange Gizka.md -->
+
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S03 - Strange Gizka.md
+
 
 ---
 type: session
@@ -137,7 +198,15 @@ key_characters:
   - Tarboo reunited
   - Players level up
 
-<!-- END SOURCE FILE:  -->
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S03 - Strange Gizka.md -->
+
+
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S04 - Azurdok's Lair Pt. 1.md -->
+
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S04 - Azurdok's Lair Pt. 1.md
+
+
 ---
 type: session
 session_index: 1
@@ -170,7 +239,15 @@ key_characters:
 ## Outcomes
   - 
 
-<!-- END SOURCE FILE:  -->
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Main\S04 - Azurdok's Lair Pt. 1.md -->
+
+
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P01 - Alya’s Hideout.md -->
+
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P01 - Alya’s Hideout.md
+
+
 ---
 type: session
 title: "Proto 1: Alyaâ€™s Hideout"
@@ -214,12 +291,14 @@ hooks:
 - Mercenaries accompany BA-136 to recover an SIS holorecord. They locate Alya Vek hiding with Gamorrean guards in an abandoned apartment building. The party allies with Alya after BA-136 turns on them.
 
 
-<!-- END SOURCE FILE:  -->
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P01 - Alya’s Hideout.md -->
 
 
-<!-- SOURCE FILE:  -->
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P02 - Night Market Ambush.md -->
 
-# Source: 
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P02 - Night Market Ambush.md
+
 
 ---
 type: session
@@ -265,47 +344,15 @@ hooks:
 - Alya interviews with Tia Rell (Coruscant Echo). Tia accepts a Czerka bribe and leaks the source to Q'russ, a bounty hunter hired by Durzoka. The party fights Q'russ and SIS agents while Galen Zullari escalates the threat.
 
 
-<!-- END SOURCE FILE:  -->
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P02 - Night Market Ambush.md -->
 
 
-<!-- SOURCE FILE:  -->
+<!-- SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P03 - Naviya’s Cantina & Mandalorian Job.md -->
 
-# Source: 
+# Source: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P03 - Naviya’s Cantina & Mandalorian Job.md
 
----
-type: session
-title: Naviyaâ€™s Cantina & Mandalorian Job
-session_type: proto-session
-in_world_date: 3,683 BBY (relative)
-galactic_regions:
-  - "[[Core Worlds]]"
-celestial_bodies:
-  - "[[Coruscant]]"
-planetary_regions:
-  - "[[Under City]]"
-  - "[[Federal District]]"
-locations:
-  - "[[Naviya's Cantina]]"
-ships: []
-factions:
-  - "[[Mandalorians]]"
-  - "[[Jedi Order]]"
-key_characters:
-  - "[[Alya Vek]]"
-  - "[[Vockor Maff]]"
-  - "[[Cray]]"
-  - "[[R1-J8]]"
-  - "[[T0-ME]]"
-  - "[[Tarisha Rex]]"
----
-## Synopsis
-- After escaping, the group regroups at Naviyaâ€™s Cantina. Sibble pursues an HNN contact. The group meets a Mandalorian and runs a job; on return, Vockor Maff warns Alya she must return to the surface.
-## Outcomes
-  - Mandalorian job completed
-  - Vockor Maff urges Alya to return to the surface
-## Hooks
-  - Alyaâ€™s next move
-  - HNN interview possibility
-  - Mandalorian contact future work
 
-<!-- END SOURCE FILE:  -->
+
+
+<!-- END SOURCE FILE: C:\Users\Max\Downloads\SW5E_Campaign_Vault\Sessions\Proto\P03 - Naviya’s Cantina & Mandalorian Job.md -->
