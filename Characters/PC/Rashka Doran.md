@@ -31,12 +31,20 @@ languages:
 ---
 ## Background
 
-18th bday parents throw party and rashka is unamused
+Mom- Fretheh 
+Dad- Brentos
 
+ice sculpture
+glee anselm
+18th bday parents throw party and Rashka is unamused
+invited her classmates from preschool
+
+
+University of Coruscant- Madina
 
 30 years old
 Coruscant or other planet
 police come during experiment, 
 
-need to name assistant
+Assistant name Koultoumy
 jump to scene with board of regents for plea deal of SIS cooperation
